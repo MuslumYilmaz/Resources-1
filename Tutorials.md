@@ -29,7 +29,6 @@
 * [Manipulating Classes Using The classList API - Treehouse Blog](http://blog.teamtreehouse.com/manipulating-classes-using-classlist-api?utm_source=rss&utm_medium=rss&utm_campaign=manipulating-classes-using-classlist-api&utm_reader=feedly)
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
 * [OverAPI.com - Collecting all the cheat sheets](http://overapi.com/)
-* [Performance Calendar » The Runtime Performance Checklist](http://calendar.perfplanet.com/2013/the-runtime-performance-checklist/)
 * [Responsive Images with Apropos](http://corner.squareup.com/2013/08/responsive-images-with-apropos.html)
 * [Responsive Web Design Resources - This Is Responsive](http://bradfrost.github.io/this-is-responsive/resources.html)
 * [Snugug-north](https://github.com/snugug/north)
